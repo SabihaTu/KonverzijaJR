@@ -1,0 +1,19 @@
+<konekcija>
+	<urlDb>192.168.90.17</urlDb>
+	<bazaDb>Registar</bazaDb>
+	<korisnikDb>Admin!01</korisnikDb>
+	<lozinkaDb>Comp2000!!01</lozinkaDb>
+	<xsd>c:\JR\Import\xmlGramatikaV6.xsd</xsd>
+	<mailfrom>bakir.zaciragic@gmail.com</mailfrom>
+	<mailfromlozinka>bakir2000!01</mailfromlozinka>
+	<smtpport>587</smtpport>
+	<smtphost>smtp.gmail.com</smtphost>
+	<log>C:\XMLSOTAC\NOVI\Import\log</log>
+	<xmlTmp>c:\SFTP</xmlTmp >
+	<arhiva>C:\XMLSOTAC\NOVI\Import\Arhiva</arhiva>
+  <putanja>C:\XMLSOTAC\NOVI\Import</putanja>
+	<brojdatoteka>15</brojdatoteka>
+	<mailAdmin>jedinstveni.registar@fmrsp.gov.ba</mailAdmin>
+	<test>Ne</test>
+	<!-- <trace>Da</trace> -->
+</konekcija>

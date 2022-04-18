@@ -1,0 +1,7 @@
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\bin\Debug\KonverzijaExcXml.exe.config
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\bin\Debug\KonverzijaExcXml.exe
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\bin\Debug\KonverzijaExcXml.pdb
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Debug\KonverzijaExcXml.csproj.CoreCompileInputs.cache
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Debug\KonverzijaExcXml.exe
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Debug\KonverzijaExcXml.pdb
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Debug\KonverzijaExcXml.csprojAssemblyReference.cache

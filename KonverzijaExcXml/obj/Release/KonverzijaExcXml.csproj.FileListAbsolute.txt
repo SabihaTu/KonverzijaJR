@@ -1,0 +1,6 @@
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\bin\Release\KonverzijaExcXml.exe.config
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\bin\Release\KonverzijaExcXml.exe
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\bin\Release\KonverzijaExcXml.pdb
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Release\KonverzijaExcXml.csproj.CoreCompileInputs.cache
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Release\KonverzijaExcXml.exe
+F:\Projekti\KonverzijaExcXml\KonverzijaExcXml\obj\Release\KonverzijaExcXml.pdb
