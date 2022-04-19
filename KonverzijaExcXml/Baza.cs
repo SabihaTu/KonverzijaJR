@@ -11,6 +11,7 @@ namespace KonverzijaExcXml
     public class Baza
     {
 // dodan komentar
+        // jos jedan komentar
         SqlConnection connection;
         public string greskaTekst;
         public List<string> listGresaka = new List<string>();
